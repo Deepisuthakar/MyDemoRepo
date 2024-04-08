@@ -1,0 +1,5 @@
+Given Enter the URL 
+And provide the credentials 
+And select the product 
+When place the order
+Then print the order ID 
